@@ -1,5 +1,6 @@
 우리 아이 옷장 [아장]
 ===================
+업로드 된 코드를 실행해보실 떄에는 업로드된 시연 영상을 참고하여주세요~ (링크: https://youtu.be/3TVrVTqvrPE)
 
 ![image](https://user-images.githubusercontent.com/81168694/205673839-162dbb55-4426-430b-9d5b-9fd8a39a57e7.png)
 
